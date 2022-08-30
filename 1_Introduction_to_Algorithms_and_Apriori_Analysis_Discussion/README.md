@@ -21,5 +21,6 @@
 1. Terminate after finite amount of time.
 2. Produce atleast one output.
 3. Independent of any programming.
+4. Unambiguous --> Deterministic
 
 
