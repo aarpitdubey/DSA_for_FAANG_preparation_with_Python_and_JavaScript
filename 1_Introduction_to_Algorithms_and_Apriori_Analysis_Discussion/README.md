@@ -135,9 +135,11 @@ Output:
 ```
 
 S1: Dharun solution:
+
 ![](./images/DharunSoln.png)
 
 S2: Arvind solution:
+
 ![](./images/ArvindSoln.png)
 
-Hence Arvind solution is short and time taken is less because it doesn't undergo to any loop.
+Hence Arvind solution is short and less time taking because it doesn't undergo to any loop.
