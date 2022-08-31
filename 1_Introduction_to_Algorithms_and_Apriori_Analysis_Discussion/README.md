@@ -143,3 +143,14 @@ S2: Arvind solution:
 ![](./images/ArvindSoln.png)
 
 Hence Arvind solution is short and less time taking because it doesn't undergo to any loop.
+
+<p style="color:red">Target => <span style="color:orange">Lesser time & space complexity </span></p> 
+
+
+### Asymptotic Notations
+
+> 1. Big O : worst case scenario
+> 2. Omega : Best case scenario
+> 3. Theta : Average case scenario
+
+![](./images/typeOfAnalysis.png)
